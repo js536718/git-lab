@@ -94,4 +94,9 @@ Answer 12
     Your configuration specifies to merge with the ref 'refs/heads/main'
     from the remote, but no such ref was fetched.
 Answer 13
+    I recieved this error:
+    shulerj@OIT-SHULERJ:/mnt/c/Users/shulerj/OneDrive - Ohio University (1)/CS2400$ git clone                    <https://github.com/js536718/git-lab-2>
+    -bash: syntax error near unexpected token `newline'
+    1s: command not found
+Answer 14
     
