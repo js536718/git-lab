@@ -98,5 +98,4 @@ Answer 13
     shulerj@OIT-SHULERJ:/mnt/c/Users/shulerj/OneDrive - Ohio University (1)/CS2400$ git clone                    <https://github.com/js536718/git-lab-2>
     -bash: syntax error near unexpected token `newline'
     1s: command not found
-Answer 14
-    
+
