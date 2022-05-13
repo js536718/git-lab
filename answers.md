@@ -99,3 +99,9 @@ Answer 13
     -bash: syntax error near unexpected token `newline'
     1s: command not found
 
+
+I recieved the following when trying to get my program to Visual Studio: 
+    shulerj@OIT-SHULERJ:/mnt/c/Users/shulerj/OneDrive - Ohio University (1)/CS2400$ g++ -Wall git-lab-program.cc
+    g++: error: git-lab-program.cc: No such file or directory
+    g++: fatal error: no input files
+    compilation terminated.
