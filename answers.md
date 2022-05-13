@@ -66,3 +66,32 @@ Answer 8
     Date:   Fri May 13 10:54:33 2022 -0400
     Initial commit
 Answer 9
+    shulerj@OIT-SHULERJ:/mnt/c/Users/shulerj/OneDrive - Ohio University (1)/CS2400$ git push
+    Username for 'https://github.com': js536718
+    Password for 'https://js536718@github.com': 
+    To https://github.com/js536718/git-lab
+     ! [rejected]        main -> main (fetch first)
+    error: failed to push some refs to 'https://github.com/js536718/git-lab'
+    hint: Updates were rejected because the remote contains work that you do
+    hint: not have locally. This is usually caused by another repository pushing
+    hint: to the same ref. You may want to first integrate the remote changes
+    hint: (e.g., 'git pull ...') before pushing again.
+    hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Answer 10
+    Yes, the answers pushed to Visual Studio
+Answer 11
+    I got the same error at Answer 9
+Answer 12
+    I don't see my changes. I see:
+    shulerj@OIT-SHULERJ:/mnt/c/Users/shulerj/OneDrive - Ohio University (1)/CS2400$ git pull
+    remote: Enumerating objects: 9, done.
+    remote: Counting objects: 100% (9/9), done.
+    remote: Compressing objects: 100% (6/6), done.
+    remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+    Unpacking objects: 100% (6/6), 2.22 KiB | 13.00 KiB/s, done.
+    From https://github.com/js536718/git-lab
+        d1e528d..6766f79  main       -> git-lab/main
+    Your configuration specifies to merge with the ref 'refs/heads/main'
+    from the remote, but no such ref was fetched.
+Answer 13
+    
